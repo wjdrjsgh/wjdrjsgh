@@ -1,5 +1,6 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Do+with+Code&fontAlign=50&fontAlignY=40&color=gradient)
-### 🫶🏻 안녕하세요, 개발 꿈나무입니다!
+###  안녕하세요. 개발자? 입니다 😁
+
 <!--
 **wjdrjsgh/wjdrjsgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
