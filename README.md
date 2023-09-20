@@ -1,6 +1,5 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Do+with+Code&fontAlign=50&fontAlignY=40&color=gradient)
-###  안녕하세요. 개발자? 입니다 😁
-
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Fall+in+Code&fontAlign=50&fontAlignY=40&color=gradient)
+### ✔️ Welcome to my Github
 <!--
 **wjdrjsgh/wjdrjsgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
