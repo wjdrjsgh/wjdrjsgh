@@ -5,9 +5,9 @@
   <br> I'm Geon-ho Jeong, Service Developer :computer:<br>
   </p>
   <br>
-  <p align="center">
+  <div align="center">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  </p>
+  </div>
  </abc>
 </h2> 
 <h2 align="center" height="20px" line-height="20px">:hammer_and_wrench: Technologies and Tools I use:</h2>
