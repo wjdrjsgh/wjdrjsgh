@@ -5,11 +5,9 @@
   <br> I'm Geon-ho Jeong, Service Developer :computer:<br>
   </p>
   <br>
-<!--   <div align="center"> -->
+  <div align="center">
     <img src="https://x.gd/nwW0M" alt="Coder GIF" width="500">
- 
-
-<!--   </div> -->
+ </div>
  </abc>
 </h2> 
 <h2 align="center" height="20px" line-height="20px">:hammer_and_wrench: Technologies and Tools I use:</h2>
