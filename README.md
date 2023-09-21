@@ -30,10 +30,6 @@
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
-<!--
-<a href="https://html.spec.whatwg.org/multipage/nav-history-apis.html#htmldocument" target="_blank">
-<a href="https://docs.python.org/ko/3/" target="_blank">
--->
 </div>
 <br>
 <div align="center">
